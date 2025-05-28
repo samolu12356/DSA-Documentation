@@ -1,7 +1,7 @@
 # DSA - Documentation
 My portfolio is my real world and it will be embraced from time to time
 
-I will be the best among all [Download here]http//https://thevoicemagazine.org/
+I will be the best among all [Download here]https://thevoicemagazine.org/
 - lola
 - wale
 - praise
@@ -9,4 +9,6 @@ I will be the best among all [Download here]http//https://thevoicemagazine.org/
 1. Data Analysis
 2. Machine Language
 3. Content Creation
- 
+****sql
+select a,b,c
+
